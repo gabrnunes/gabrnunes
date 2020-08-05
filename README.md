@@ -1,16 +1,99 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**gabrnunes/gabrnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Gabriel Nunes** e moro em Joinville-SC. Trabalho com desenvolvimento desde 2008, quando ingressei na Datasul. De lá pra cá, minha experiência com desenvolvimento web só aumentou, principalmente na montagem de interfaces utilizando HTML/CSS.
 
-Here are some ideas to get you started:
+Desde cedo eu sempre fui muito curioso por aprender a fuçar. Lembro que quando criança eu desmontava os meus brinquedos eletrônicos para usar as peças em outras coisas (que muitas vezes não funcionavam). Também, com frequência mudava os móveis do meu quarto de lugar, só pra parecer que eu estava em um quarto novo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Depois, quando adolescente, lembro que eu gostava muito de criar scripts e addons para o mIRC. Eu nem sabia direito o que era programar, mas lembro que criei algumas coisas que algumas pessoas usavam, lembro que até tentei fazer alguns jogos, mas que ficaram muito ruins. Também foi nessa época (15~16 anos) que desenvolvi meus primeiros sites sobre Dragon Ball Z, Pokémon e Botafogo (o time que eu torcia).
+
+```2008 ~ 2008 Datasul```<br>
+Lá comecei como estagiário desenvolvendo em Progress, não curti muito e fiquei poucos meses (tanto é que nem coloco no meu Linkedin)
+
+```2008 ~ 2009 Atrative```<br>
+De lá fui trabalhar em uma agência digital, onde era responsável pelo design dos sites e também pela montagem do front-end de alguns.
+
+```2009 ~ 2010 ClaritySoft```<br>
+Trabalhei remotamente para uma empresa de Curitiba, que desenvolvia um sistema para rádio taxi. Lá usava principalmente Javascript.
+
+```2010 ~ 2011 ByBR Tecnologia```<br>
+Na ByBR eu trabalhei quando eles estavam iniciando no desenvolvimento de sites, fazia desde o layout até a programação final em Wordpress.
+
+```2011 ~ 2020 Teken```<br>
+Desde então fundei a minha empresa, uma pequena agência de propaganda. Nela sou o responsável pelo desenvolvimento de todos os sites que criamos, também atuo em outras áreas como a de design, estratégia e financeiro (tem que fazer de tudo um pouco, né?).
+
+# 💻 GABRIEL DEV 💻
+### Me sinto preparado para um novo desafio.
+
+ Sei que estou "travado" no desenvolvimento e gostaria de voltar a trabalhar na área e aprender novas tecnologias.
+- Tenho pleno conhecimento em montagem HTML/CSS, também trabalho com SASS e os trabalhos mais recentes fiz usando Bootstrap
+- Também tenho conhecimento em Javascript, embora usei jQuery até pouco tempo, estou estudando Javascript ES6
+- Me interessei bastante por React e também estou estudando mais sobre (sei bem pouco)
+- Possuo noções gerais de lógica e programação, nos últimos anos desenvolvi bastante em Wordpress/PHP
+
+---
+
+**Algumas coisas que eu desenvolvi recentemente**
+
+[O site da teken](https://www.teken.com.br/)<br>
+Ele foi progrado usando Bootstrap como framework front-end, e wordpress como CMS. Também fiz algumas firulas usando Javascript ou animações CSS.
+
+[O site da Central Cowork](https://centralcowork.com.br/)<br>
+Ele é bem simples, apenas one page. E fiz usando o Bootstrap e SASS.
+
+[Mulheres no cárcere](https://mulheresnocarcere.iddh.org.br/)<br>
+Este também foi um site muito legal de desenvolver, pois usei bastante SVG, deixando a qualidade dele muito boa tanto no mobile quanto no desktop.
+
+[O site da Velev](https://velev.com.br/)<br>
+Também é bem legal e tem várias animações em CSS. O site tem como CMS o Wordpress.
+
+# ✨ GABRIEL PLUS ✨
+### Minhas habilidades em outras áreas.
+
+Além do desenvolvimento, os últimos 9 anos trabalhando na minha própria empresa me deram habilidades extras que carrego comigo, como:
+
+```Design```
+Eu também atuei na criação de muitos materiais pra teken, entre eles o próprio site da teken e o site da Central Cowork, que eu fiz tudo (desde o layout até a programação final).
+
+```Escrita```
+Posso não ser um exímio conhecedor da língua portuguesa, mas eu consigo escrever uns textos legais, lá no [meu Medium](https://medium.com/@gabnunes) e também no Instagram da teken [aqui](https://www.instagram.com/p/B9EdPI-hvp_/), [aqui](https://www.instagram.com/p/B-Xvt4FBQIt/) e [aqui](https://www.instagram.com/p/B52rpzyhIrg/).
+
+```Estratégia e planejamento```
+Pensar estrategicamente com um objetivo também sempre foi algo que consegui fazer. Na teken, mudamos de uma agência digital, pra uma agência de propaganda, pra uma agência de branding. E dentro dela eu sempre tentava trazer métodos mais inovadores como o design sprint ou joguinhos para criação de marcas. Também ajudei a fazer isso para vários clientes.
+
+```Financeiro/Orçamentos```
+Não que eu goste ou queira trabalhar com isso, mas tenho conhecimentos de planejamento financeiro e de realizar orçamentos com vários fornecedores (também sei como encontrar um).
+
+---
+
+**Mas eu também não parei por aí, nesse meio tempo eu criei novos projetos que fizeram parte da teken (ou não)**
+
+```Nossa Joinville```
+O portal, pouco antes de sair do ar, publicava notícias estilo BuzzFeed sobre a cidade de Joinville. Um Quiz que eu criei sobre "Quão Joinvilense você é?" teve mais de 30 mil visualizações.
+
+```Sou JEC```
+www.soujec.com<br>
+Um portal de notícias sobre o JEC. Nele implementei vários projetos paralelos como a criação de camisetas sobre o time (que venderam super bem), um jornal impresso e artigos e notícias que tiveram muitas visualizações. Eu fui responsável principalmente pelo design e por juntar uma ótima equipe pra ajudar a atualizar o site (que não tem fins lucrativos). Hoje o site está parado por falta de tempo, ficou somente a amizade entre os que ajudavam no site.
+
+```Join Digital Meet```<br>
+Eu continuei um evento sobre marketing digital do antigo núcleo digital da ACIJ, toquei ele sozinho e trouxe muita gente legal pra trocar ideia aqui em Joinville. O evento impactou mais de 600 pessoas em 4 edições.
+
+```Codecon```
+www.codecon.dev<br>
+Também criei um evento para desenvolvedores, que foi abraçado pela teken. A primeira edição já contou com mais de 300 participantes e em 2020 transformamos ele em um evento digital que teve mais de 1.000 inscritos. Toda a parte estratégica, planejamento, venda de patrocínios, curadoria de palestras foi feita por mim.
+
+```Sh*ft Festival```
+[www.shiftfestival.cc](https://shiftfestival.cc)<br>
+Além de curtir programar, eu também curto muito criatividade. Daí que surgiu a ideia de organizar um festival de criatividade aqui na cidade. Tivemos mais de 450 participantes e muitos elogios no final. Este ano, devido a pandemia, o evento virou um podcast.
+
+# 🛎️ RESUMINDO 🛎️
+
+Se você chegou até aqui, parabéns! E obrigado, haha. Deu bastante trabalho escrever tudo isso.
+
+Eu estou em busca de uma nova oportunidade pois acredito que preciso de um novo ciclo pra dar uma guinada na minha vida. Eu sou uma pessoa um pouco introvertida, mas que faz amizades fácil. Também liderei algumas pessoas enquanto trabalho na teken e mantive várias amizades com os ex-funcionários que tive. Sou casado e tivemos uma filha recentemente. Também tenho um Nintendo Switch e gosto de jogar nas horas vagas, além de assistir Youtube e Netflix.
+
+Estou empolgado e disposto para conversar!
+
+```
+Zap: (47) 99136-7060
+E-mail: eu@gnun.es
+```
