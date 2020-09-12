@@ -21,15 +21,6 @@ Na ByBR eu trabalhei quando eles estavam iniciando no desenvolvimento de sites, 
 ```2011 ~ 2020 Teken```<br>
 Desde então fundei a minha empresa, uma pequena agência de propaganda. Nela sou o responsável pelo desenvolvimento de todos os sites que criamos, também atuo em outras áreas como a de design, estratégia e financeiro (tem que fazer de tudo um pouco, né?).
 
-# 💻 GABRIEL DEV 💻
-### Me sinto preparado para um novo desafio.
-
- Sei que estou "travado" no desenvolvimento e gostaria de voltar a trabalhar na área e aprender novas tecnologias.
-- Tenho pleno conhecimento em montagem HTML/CSS, também trabalho com SASS e os trabalhos mais recentes fiz usando Bootstrap
-- Também tenho conhecimento em Javascript, embora usei jQuery até pouco tempo, estou estudando Javascript ES6
-- Me interessei bastante por React e também estou estudando mais sobre (sei bem pouco)
-- Possuo noções gerais de lógica e programação, nos últimos anos desenvolvi bastante em Wordpress/PHP
-
 ---
 
 **Algumas coisas que eu desenvolvi recentemente**
@@ -88,10 +79,6 @@ Além de curtir programar, eu também curto muito criatividade. Daí que surgiu 
 # 🛎️ RESUMINDO 🛎️
 
 Se você chegou até aqui, parabéns! E obrigado, haha. Deu bastante trabalho escrever tudo isso.
-
-Eu estou em busca de uma nova oportunidade pois acredito que preciso de um novo ciclo pra dar uma guinada na minha vida. Eu sou uma pessoa um pouco introvertida, mas que faz amizades fácil. Também liderei algumas pessoas enquanto trabalho na teken e mantive várias amizades com os ex-funcionários que tive. Sou casado e tivemos uma filha recentemente. Também tenho um Nintendo Switch e gosto de jogar nas horas vagas, além de assistir Youtube e Netflix.
-
-Estou empolgado e disposto para conversar!
 
 ```
 Zap: (47) 99136-7060
