@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é **Gabriel Nunes** e moro em Joinville-SC. Trabalho com desenvolvimento desde 2008, quando ingressei na Datasul. De lá pra cá, minha experiência com desenvolvimento web só aumentou, principalmente na montagem de interfaces utilizando HTML/CSS.
+Meu nome é **Gabriel Nunes** e moro em Joinville-SC. Trabalho com desenvolvimento desde 2008. De lá pra cá, minha experiência com desenvolvimento web só aumentou, principalmente na montagem de interfaces utilizando HTML/CSS. Hoje trabalho como engenheiro de software no [Asaas](https://github.com/asaasdev), focando em desenvolvimento mobile com React Native.
 
 Desde cedo eu sempre fui muito curioso por aprender a fuçar. Lembro que quando criança eu desmontava os meus brinquedos eletrônicos para usar as peças em outras coisas (que muitas vezes não funcionavam). Também, com frequência mudava os móveis do meu quarto de lugar, só pra parecer que eu estava em um quarto novo.
 
@@ -20,6 +20,9 @@ Na ByBR eu trabalhei quando eles estavam iniciando no desenvolvimento de sites, 
 
 ```2011 ~ 2020 Teken```<br>
 Desde então fundei a minha empresa, uma pequena agência de propaganda. Nela sou o responsável pelo desenvolvimento de todos os sites que criamos, também atuo em outras áreas como a de design, estratégia e financeiro (tem que fazer de tudo um pouco, né?).
+
+```2020 ~ hoje Asaas```<br>
+Trabalho com o desenvolvimento do aplicativo da comunidade Asaas usando React Native no front-end e Meteor no back-end.
 
 ---
 
@@ -76,9 +79,6 @@ Também criei um evento para desenvolvedores, que foi abraçado pela teken. A pr
 [www.shiftfestival.cc](https://shiftfestival.cc)<br>
 Além de curtir programar, eu também curto muito criatividade. Daí que surgiu a ideia de organizar um festival de criatividade aqui na cidade. Tivemos mais de 450 participantes e muitos elogios no final. Este ano, devido a pandemia, o evento virou um podcast.
 
-# 🛎️ RESUMINDO 🛎️
-
-Se você chegou até aqui, parabéns! E obrigado, haha. Deu bastante trabalho escrever tudo isso.
 
 ```
 Zap: (47) 99136-7060
